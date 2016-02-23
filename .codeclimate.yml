@@ -5,7 +5,7 @@ engines:
     config: .eslintrc.json
     enabled: true
 exclude_paths:
-  - **/vendor/**/*
+  - "**/vendor/**/*"
 ratings:
   paths:
     - ext/scripts/**
